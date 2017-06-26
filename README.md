@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/npm.svg?style=plastic)]()
+[![npm](https://img.shields.io/npm/v/npm.svg)]()
 
 # JSReader
 

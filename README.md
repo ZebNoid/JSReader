@@ -2,3 +2,4 @@
 
 # JSReader
 
+[![badge](https://img.shields.io/badge/badge-shields.io-brightgreen.svg?style=plastic)](https://shields.io/)

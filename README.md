@@ -6,7 +6,7 @@
 - http://lthr.io/deploy-to-gh-pages
 - https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
 - http://www.steveklabnik.com/automatically_update_github_pages_with_travis_example/
-
+- https://docs.travis-ci.com/user/deployment/pages/
 
 
 [Adding badges](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-adding-badges-to-your-readme)

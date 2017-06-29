@@ -5,6 +5,8 @@
 - http://awestruct.org/auto-deploy-to-github-pages/
 - http://lthr.io/deploy-to-gh-pages
 - https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
+
+- https://stackoverflow.com/questions/41067573/how-to-use-travis-ci-environment-variables-sh-script-for-auto-deployment-to-g
 - http://www.steveklabnik.com/automatically_update_github_pages_with_travis_example/
 - https://docs.travis-ci.com/user/deployment/pages/
 

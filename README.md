@@ -1,8 +1,7 @@
 # template
 
-https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
-
-https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
+- https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
+- https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
 
 http://awestruct.org/auto-deploy-to-github-pages/
 
